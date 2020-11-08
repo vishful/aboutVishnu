@@ -8,7 +8,6 @@
       -distributed computing for resource sharing
 - 🌱 I’m currently learning Spring MVC, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
 - 🌈 Skills
-
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
