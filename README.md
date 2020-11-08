@@ -7,14 +7,22 @@
       -implementing an HR Management System as a web app
       -distributed computing for resource sharing
 - 🌱 I’m currently learning Spring MVC, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
-- 🦄 My favorite languages include :
-      - Java
-      - HTML
-      - CSS
-      - JavaScript
+- 🌈 Skills
+
+<img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css-%23239120.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="	https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="	https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
+<img src="	https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+<img src=" https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" />
 
 ![Vishnu's github stats](https://github-readme-stats.vercel.app/api?username=vishful&show_icons=true&theme=dracula)
 
 Connect With Me 
 
-- <a href="https://www.linkedin.com/in/vishnu-r-pillai-540148199/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></img></a>
+ <a href="https://www.linkedin.com/in/vishnu-r-pillai-540148199/"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></img></a>
+ 
+ 
