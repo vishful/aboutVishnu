@@ -5,7 +5,7 @@
 - 🖋️ I am a fourth year engineering student and incredibly passionate about web development and full stack development.
 - 🔭 I’m currently working on two projects : 
       -implementing an HR Management System as a web app
-      -distributed computing for resource sharing
+      and distributed computing for resource sharing
 - 🌱 I’m currently learning Spring MVC, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
 - 🌈 Skills
 <p align-items="left">
