@@ -2,11 +2,8 @@
 
 - 🌟 Hi! I'm Vishnu. I'm 22.
 - ⚔️ My pronouns are he/him.
-- 🖋️ I am a fourth year engineering student and incredibly passionate about web development and full stack development.
-- 🔭 I’m currently working on two projects : 
-      -implementing an HR Management System as a web app
-      and distributed computing for resource sharing
-- 🌱 I’m currently learning Spring MVC, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
+- 🖋️ I am a developer and incredibly passionate about web development and full stack development.
+- 🌱 I’m currently learning ReactJs, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
 - 🌈 Skills
 <p align-items="left">
 <img src="https://img.shields.io/badge/html-%23239120.svg?&style=for-the-badge&logo=html5&logoColor=white" />
