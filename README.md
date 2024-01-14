@@ -1,6 +1,6 @@
 # About Vishnu
 
-- 🌟 Hi! I'm Vishnu. I'm 23.
+- 🌟 Hi! I'm Vishnu. I'm 24.
 - ⚔️ My pronouns are he/him.
 - 🖋️ I am a developer and incredibly passionate about web development and full stack development.
 - 🌱 I’m currently learning ReactJs, learning as much as I can about distributed computing and brushing up on data structures and algortihms.
